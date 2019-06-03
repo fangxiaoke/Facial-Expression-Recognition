@@ -5,7 +5,7 @@ expression = ['angry', 'contemptuous', 'disgusted', 'fearful', 'happy', 'neutral
 
 Modified from https://github.com/jrishabh96/Facial-Expression-Recognition
 
-arga: --use_stored_model: to use the stored CNN model or not.
+args: --use_stored_model: to use the stored CNN model or not.
 
 to train: python train_rafd.py
 to test: python train_rafd.py --use_stored_model
